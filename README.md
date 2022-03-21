@@ -35,6 +35,12 @@ Update: THuman2.0 SMPL-X Paras.zip
 We have released SMPL-X fitting results, you can download it from this repo directly. 
 ![image](https://github.com/ytrock/THuman2.0-Dataset/blob/main/THuman2.0%20SmplX.jpg)
 
+### Related Datasets from THU3DV Lab [[Link]](http://liuyebin.com/)
+[[MultiHuman Dataset]](https://github.com/y-zheng18/MultiHuman-Dataset/) Containing 453 high-quality scans, each contains 1-3 persons. The dataset can be used to train and evaluate multi-person reconstruction algorithms.
+
+[[THuman Dataset]](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) Containing 6k (200 subjects x 30 poses) scans from a single RGBD sensor, with SMPL annotations. 
+
+
 
 ### Citation
 If you use this dataset for your research, please consider citing:
