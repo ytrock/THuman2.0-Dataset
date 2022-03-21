@@ -33,7 +33,7 @@ For each scan, we provide the 3D model (****.obj) along with the corresponding t
 
 Update: THuman2.0 SMPL-X Paras.zip
 We have released SMPL-X fitting results, you can download it from this repo directly. 
-![image](./THuman2.0 SmplX.jpg)
+![image](https://github.com/ytrock/THuman2.0-Dataset/blob/main/THuman2.0%20SmplX.jpg)
 
 
 ### Citation
