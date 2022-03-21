@@ -31,6 +31,9 @@ By requesting for the link, you acknowledge that you have read the agreement, un
 THuman2.0 Dataset contains 500 high-quality human scans captured by a dense DLSR rig.
 For each scan, we provide the 3D model (****.obj) along with the corresponding texture map (material0.jpeg).
 
+Update: THuman2.0 SMPL-X Paras.zip
+We have released SMPL-X fitting results, you can download it from this repo directly. 
+
 ### Citation
 If you use this dataset for your research, please consider citing:
 ```
