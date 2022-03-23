@@ -34,6 +34,7 @@ For each scan, we provide the 3D model (****.obj) along with the corresponding t
 Update: THuman2.0 SMPL-X Paras.zip
 We have released SMPL-X fitting results, you can download it from this repo directly. 
 ![image](https://github.com/ytrock/THuman2.0-Dataset/blob/main/THuman2.0%20SmplX.jpg)
+
 Note: When generating the mesh of SMPL-X, please first scale the generated SMPL-X mesh (using the original SMPL-X code) and *then* apply the global transformation. 
 
 ### Related Datasets from THU3DV Lab [[Link]](http://liuyebin.com/)
