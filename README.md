@@ -33,6 +33,8 @@ For each scan, we provide the 3D model (****.obj) along with the corresponding t
 
 Update: We have released SMPL-X fitting parameters and corresponding meshes, you can download it from [Here](https://drive.google.com/file/d/1rnkGomScq3yxyM9auA-oHW6m_OJ5mlGL/view?usp=sharing). 
 
+Update: The SMPL fitting results can be downloaded at [Here]( https://dataset.ait.ethz.ch/downloads/gdna/THuman2.0_smpl.zip), many thanks [Dr. Xu Chen](https://ait.ethz.ch/people/xu/) for the efforts. 
+
 ![image](https://github.com/ytrock/THuman2.0-Dataset/blob/main/THuman2.0%20SmplX.jpg)
 
 Note: When generating the mesh of SMPL-X, please first *scale* the generated SMPL-X mesh (using the original SMPL-X code) and then *translate* the model using global transformation in the pkl, (e.g., SMPLX_Verts * scale + trans).  
