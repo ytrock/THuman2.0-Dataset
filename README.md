@@ -42,6 +42,8 @@ Note: When generating the mesh of SMPL-X, please first *scale* the generated SMP
 
 [[THuman Dataset]](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) Containing 6k (200 subjects x 30 poses) scans from a single RGBD sensor, with SMPL annotations. 
 
+[[THuman 3.0 Dataset]](https://github.com/fwbx529/THuman3.0-Dataset) Containing 20 combinations of human-garment, each contains 15 to 35 high-quality human scans captured by a dense DLSR rig. 
+
 
 
 ### Citation
