@@ -9,9 +9,10 @@ Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.  CVPR 2
 
 
 ## Update 2024.03.02
-THuman2.1 is released! 
+THuman2.1 is nearly finished! 
 We've significantly extended the dataset from 500 models to 2500 models. 
-You can download the corresponding SMPL-X fitting results of THuman2.1 at: 
+% You can download the corresponding SMPL-X fitting results of THuman2.1. 
+[Comming Soon]
 
 
 ## Agreement
