@@ -9,9 +9,9 @@ Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.  CVPR 2
 
 
 ## Update 2024.03.02
-THuman2.1 is nearly finished! 
+THuman2.1 is finished! 
 We've significantly extended the dataset from 500 models to 2500 models. 
-[Comming Soon]
+SMPL-X fitting parameters: https://drive.google.com/file/d/1s7xDiKnSSQqGE4n-lQi_P2WlBYjktgPk/view?usp=drive_link
 
 
 ## Agreement
@@ -29,19 +29,19 @@ We've significantly extended the dataset from 500 models to 2500 models.
 
 The dataset is encrypted to prevent unauthorized access.
 
-Please fill the [request form](./THUman2.0_Agreement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Tao Yu (ytrock@126.com) to request the download link. 
+Please fill out the [request form](./THUman2.0_Agreement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Tao Yu (ytrock@126.com) to request the download link. 
 
-By requesting for the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
+By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by it. If you do not agree with these terms and conditions, you must not download and use the Dataset.
 
 
 ## Data Explanation
 
 THuman2.0 Dataset contains 500 high-quality human scans captured by a dense DLSR rig.
-For each scan, we provide the 3D model (****.obj) along with the corresponding texture map (material0.jpeg).
+For each scan, we provide the 3D model (****.obj) and the corresponding texture map (material0.jpeg).
 
-Update: We have released SMPL-X fitting parameters and corresponding meshes, you can download it from [Here](https://drive.google.com/file/d/1rnkGomScq3yxyM9auA-oHW6m_OJ5mlGL/view?usp=sharing). 
+Update: We have released SMPL-X fitting parameters and corresponding meshes, you can download them from [Here](https://drive.google.com/file/d/1rnkGomScq3yxyM9auA-oHW6m_OJ5mlGL/view?usp=sharing). 
 
-Update: The SMPL fitting results can be downloaded at [Here]( https://dataset.ait.ethz.ch/downloads/gdna/THuman2.0_smpl.zip), many thanks [Dr. Jinlong Yang](https://is.mpg.de/~jyang) and [Dr. Xu Chen](https://ait.ethz.ch/people/xu/) for the efforts. 
+Update: The SMPL fitting results can be downloaded [Here]( https://dataset.ait.ethz.ch/downloads/gdna/THuman2.0_smpl.zip), many thanks [Dr. Jinlong Yang](https://is.mpg.de/~jyang) and [Dr. Xu Chen](https://ait.ethz.ch/people/xu/) for the efforts. 
 
 ![image](https://github.com/ytrock/THuman2.0-Dataset/blob/main/THuman2.0%20SmplX.jpg)
 
