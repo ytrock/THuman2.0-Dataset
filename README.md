@@ -8,7 +8,7 @@ Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.  CVPR 2
 ![teaser](./THuman2.0.jpg)
 
 
-## Update 2024.03.02
+## Update 2024.03.08
 THuman2.1 is finished! 
 We've significantly extended the dataset from 500 models to 2500 models. 
 
