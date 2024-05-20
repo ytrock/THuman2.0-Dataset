@@ -11,7 +11,7 @@ Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.  CVPR 2
 ## Update 2024.05.14 
 We've fixed the misaligned SMPL-X fittings and provided the code for converting SMPL-X paras to mesh. 
 
-SMPL-X fitting results, including paras and meshes, can be downloaded directly at: https://drive.google.com/file/d/1cVorMPuA-b38BltQ1PJGtccF6pkZetw6/view?usp=sharing
+SMPL-X fitting results, including paras and meshes, can be downloaded directly at: [SMPL-X Fittings](https://drive.google.com/file/d/194s_b2y3wpp699XVc4KNaqD6Bb7T14JS/view?usp=sharing)
 
 ## Update 2024.03.08
 THuman2.1 is finished! 
