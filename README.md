@@ -1,4 +1,4 @@
-# THUman2.0 Dataset
+# THUman2.1 Dataset
 ## Function4D: Real-time Human Volumetric Capture from Very Sparse RGBD Sensors
 Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.  CVPR 2021 Oral
 
