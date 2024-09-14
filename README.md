@@ -32,7 +32,7 @@ We've significantly extended the dataset from 500 models to 2500 models.
 
 The dataset is encrypted to prevent unauthorized access.
 
-Please fill out the [request form](./THUman2.0_Agreement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Tao Yu (ytrock@126.com) to request the download link. 
+Please fill out the [request form](./THUman2.1_Agreement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Tao Yu (ytrock@126.com) to request the download link. 
 
 By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by it. If you do not agree with these terms and conditions, you must not download and use the Dataset.
 
